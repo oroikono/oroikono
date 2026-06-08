@@ -3,8 +3,7 @@
 **AI research at ETH Zürich** — neuro-symbolic AI, PDEs, symbolic discovery.
 _Could AI understand the laws of physics?_ 🤖🧠
 
-PhD candidate at the **ETH AI Center & D-MATH**, advised by **Siddhartha Mishra** and **Eleni Chatzi**. I build methods that pair learning with structure and symbolic reasoning to find *interpretable, verifiable* solutions to scientific problems — going beyond purely data-driven solvers.
-
+PhD candidate at the **ETH AI Center & D-MATH**, advised by **Siddhartha Mishra** and **Eleni Chatzi**. I build methods that pair learning with structure and symbolic reasoning to find *interpretable, verifiable* solutions to scientific problems 
 **Research**
 - Neuro-symbolic AI for scientific discovery — grammar-valid candidates → latent exploration → residual-validated refinement
 - ML for PDEs & dynamical systems — operator learning, physics-informed models
