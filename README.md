@@ -15,6 +15,6 @@ PhD candidate at the **ETH AI Center & D-MATH**, advised by **Siddhartha Mishra*
 - 🌊 **ZeroFlood — Geospatial Foundation Model for Flood Susceptibility Mapping** · [paper](https://arxiv.org/abs/2510.23364) · [`ZeroFlood`](https://github.com/oroikono/IBM-BlueSky-Challenge-ZeroFlood)
 - ⌚ **Cross-Domain HAR — Self-Supervised Learning & Enhanced Finetuning** (2024)
 
-**Also** — open-source contributor to [SageMath](https://github.com/sagemath/sage) and [nanobot](https://github.com/HKUDS/nanobot).
+
 
 **Find me** — [Scholar](https://scholar.google.com/citations?user=k2J-h4EAAAAJ) · [Bluesky](https://bsky.app/profile/oroikon.bsky.social) · [LinkedIn](https://www.linkedin.com/in/orestisoikonomou/) · ooikonomou@ethz.ch
