@@ -62,11 +62,10 @@ verification backend, or a careful review of an existing candidate.
 - ⌚ **Cross-Domain Human Activity Recognition** — self-supervised learning
   and enhanced fine-tuning
 
-## Follow along
+## Connect
 
-I share open-source work on verifiable scientific AI, PDE failure cases, and
-neuro-symbolic experiments as they become reproducible. If that is your kind of
-problem, follow the work or open an issue—I am especially interested in cases
+I welcome conversations and collaborations on verifiable scientific AI, PDE
+failure cases, and neuro-symbolic methods. I am especially interested in cases
 where a plausible-looking solution fails for a subtle mathematical reason.
 
 [Google Scholar](https://scholar.google.com/citations?user=k2J-h4EAAAAJ) ·
